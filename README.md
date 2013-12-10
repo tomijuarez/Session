@@ -16,3 +16,15 @@ $_session->run('tomi' /*the user name or something*/, true /*false if you dont w
 //(...)
 $_session->destroy();
 `````
+
+IMPORTANT
+=========
+*This class is very poor and not secure*, it's under construction.
+Pretty soon it will have new options and will be more secure to use.
+Here is a list of some methods that the class will have in the future:
+-Options that will be applied from a method.
+-serialize and unserialize the session and cookie.
+-Get session and cookie keys.
+-Encrypt data.
+-The class will be namespaced.
+-Better architecture.
