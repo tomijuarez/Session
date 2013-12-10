@@ -7,7 +7,7 @@ Note that you can not use the cookies, if you want.
 
 Usage
 =====
-
+`````php
 <?php
 require 'session.php';
 $_session = Session::connect(); //singleton method.
@@ -15,4 +15,4 @@ $_session->run('tomi' /*the user name or something*/, true /*false if you dont w
 
 //(...)
 $_session->destroy();
-?>
+`````
