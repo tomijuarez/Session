@@ -31,7 +31,3 @@ Here is a list of some methods that the class will have in the future:
 - Encrypt data.
 - The class will be namespaced.
 - Better architecture.
-
-Contact
-=======
-If you have any soubt or if you want to help, please send me an e-mail to tomirammstein@gmail.com
